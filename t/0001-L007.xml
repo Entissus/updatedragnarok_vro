@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999732" title="Ragnarok" descr="Ragnarok" voice="yes">
+			<t id="1">Ragnarok</t>
+			<t id="2">(Ragnarok) {999732,4}</t>
+			<t id="3">Ragnarok is the pinnacle of Terran space superiority. But this ship is so difficult to build that one who dares to build it will need to invest absurd amount of resources. Because of this fact, Terran military prefers standard version of Asgard. </t>
+			<t id="4">Ragnarok</t>
+			<t id="5">Stormbreaker</t>
+			<t id="6">Terran process improvements allows to Stormbreaker absorb more heat (~50%) when compared to first version of Asgard weapon.</t>
+		</page>
+	</add>
+</diff>

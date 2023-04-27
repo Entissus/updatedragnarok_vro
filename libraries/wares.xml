@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="/wares">
+	<ware id="ragnarok_asgard_ware" name="{999732,2}" description="{999732,3}" group="ships_terran" transport="ship" volume="1" tags="blueprintsaleonly ship">
+      <price min="107856577" average="125037150" max="142217722" />
+      <production time="1390" amount="1" method="default" name="{20206,901}">
+        <primary>
+          <ware ware="computronicsubstrate" amount="2705" />
+          <ware ware="energycells" amount="106988" />
+          <ware ware="metallicmicrolattice" amount="5687" />
+        </primary>
+      </production>
+      <component ref="ragnarok_asgard_macro" amount="1" />
+      <restriction licence="capitalship" />
+      <owner faction="terran" />
+    </ware>
+    <ware id="weapon_stormbreaker_ragnarok_ware" name="{999732,5}" description="{999732,6}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+      <price min="15777836" average="17530930" max="19284022" />
+      <production time="50" amount="1" method="default" name="{20206,101}">
+        <primary>
+          <ware ware="computronicsubstrate" amount="1246" />
+          <ware ware="energycells" amount="4000" />
+          <ware ware="metallicmicrolattice" amount="3724" />
+          <ware ware="siliconcarbide" amount="944" />
+        </primary>
+      </production>
+      <component ref="weapon_stormbreaker_ragnarok_macro" amount="1" />
+      <restriction licence="capitalequipment" />
+      <use threshold="0" />
+      <owner faction="terran" />
+    </ware>
+	</add>
+</diff>

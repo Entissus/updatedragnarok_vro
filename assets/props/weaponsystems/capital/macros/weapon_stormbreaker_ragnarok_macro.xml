@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: Lino (192.168.3.62) at 22.03.2021_15-51-33-->
+<macros>
+  <macro name="weapon_stormbreaker_ragnarok_macro" class="weapon">
+    <component ref="weapon_stormbreaker_ragnarok" />
+    <properties>
+      <identification name="{999732,5}" basename="{999732,5}" makerrace="terran" description="{999732,6}" mk="2" />
+      <bullet class="bullet_atf_xl_mjolnir_macro" />
+      <heat overheat="15000" cooldelay="0.13" coolrate="600" reenable="2000" />
+      <reload />
+      <hull max="60000" integrated="0" />
+      <effects>
+        <firing start="startshooting_atf_xl_beam_01_mk1" stop="stopshooting_atf_xl_beam_01_mk1" />
+      </effects>
+    </properties>
+  </macro>
+</macros>

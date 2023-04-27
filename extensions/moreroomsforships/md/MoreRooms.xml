@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <add sel="//do_elseif[@value='$PlayelShip.macro.name == readtext.{20101}.{60101}']" pos="prepend">
+        <do_elseif value="$PlayelShip.macro.name == readtext.{999732}.{1}">
+            <get_room_definition macro="$X4CorridorMacro" race="race.terran" tags="tag.corridor" />                     
+        </do_elseif>
+    </add>
+</diff>

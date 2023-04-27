@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ?xml-stylesheet href="index.xsl" type="text/xsl" ? -->
+<diff>
+	<add sel = '/index' >
+		<entry name="ragnarok_asgard" value="extensions\ragnarok_asgard_vro\assets\units\size_xl\ragnarok_asgard" />
+		<entry name="weapon_stormbreaker_ragnarok" value="extensions\ragnarok_asgard_vro\assets\props\weaponsystems\capital\weapon_stormbreaker_ragnarok" />
+	</add>
+</diff>
